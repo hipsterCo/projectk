@@ -4,5 +4,6 @@ resource "aws_instance" "ec2_example" {
 
     tags = {
       Name = "pubvmnew"
+value = newone
     }
 }
