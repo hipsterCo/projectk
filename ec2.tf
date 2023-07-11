@@ -7,5 +7,6 @@ resource "aws_instance" "ec2_example" {
       Name = "pubvmnew"
 
       value = "omkv vivekw"
+      value = "omkv king"
    }
 }
