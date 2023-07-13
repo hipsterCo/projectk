@@ -10,7 +10,7 @@ associate_public_ip_address = true
   sudo apt install apache2 -y
   EOF
   tags = {
-    Name = "pubvm1ubuntu"
+    Name = "pubvm1ubuntu1"
   }
 
 
